@@ -1,6 +1,6 @@
 import java.util.Date;
 
-/a small change
+/a little change
 public class Book {
 	private int isbn;
 	private String title;

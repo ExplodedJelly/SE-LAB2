@@ -1,4 +1,4 @@
-/a small change
+/a little change
 import java.sql.*;
 import com.opensymphony.xwork2.ActionSupport;
 public class Query extends ActionSupport {
